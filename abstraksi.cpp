@@ -21,3 +21,9 @@ class AbstraksiKlas
     }
 };
 
+int main() 
+{
+    AbstraksiKlas ak;
+    ak.setXY("Yogyakarta", "Kampus");
+    
+}
