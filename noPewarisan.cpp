@@ -28,3 +28,10 @@ class derivedClass : public baseClass1
     }
 };
 
+int main() 
+{
+    derivedClass a;
+    a.perkenalan();
+
+    return 0;
+}
